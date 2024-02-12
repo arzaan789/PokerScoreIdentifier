@@ -1,4 +1,3 @@
-This is my submission to the technical assessment for BleedAI.
 ## Problem Statement
 Extract player names and player positions from a given image of a Texas Hold'em poker game.
 ## Approach and Methodology
